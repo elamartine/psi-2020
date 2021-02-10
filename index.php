@@ -5,6 +5,6 @@
     <meta charset="utf-8">
   </head>
   <body>
-    <h1> Meu novo repositório </h1>
+    <h1> <?php echo "Página inicial de Lamartine"; ?> </h1>
   </body>
 </html>
